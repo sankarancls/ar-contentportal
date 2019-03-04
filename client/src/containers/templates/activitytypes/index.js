@@ -1,0 +1,9 @@
+export {default as Audio} from './AudioPage.jsx';
+export {default as Weblink} from './WeblinkPage.jsx';
+export {default as Core} from './CorePage.jsx';
+export {default as Video} from './VideoPage.jsx';
+export {default as Experiment} from './ExperimentPage.jsx';
+export {default as PictureGallery} from './PictureGalleryPage.jsx';
+export {default as Deck} from './DeckPage.jsx';
+export {default as Book} from './BookPage.jsx';
+export {default as Common} from './CommonPage.jsx';
